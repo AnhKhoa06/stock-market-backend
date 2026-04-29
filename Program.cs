@@ -9,7 +9,10 @@ builder.Services.AddControllers();
 
 // Đăng ký DbContext với Connection String từ appsettings
 builder.Services.AddDbContext<StockMarketContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("StockMarketDb")));
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("StockMarketDb"),
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("StockMarketDb"))
+    ));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
