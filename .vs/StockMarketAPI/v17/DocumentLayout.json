@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|c:\\users\\anhkh\\documents\\stockapi\\stockmarketapi\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|solutionrelative:controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|c:\\users\\anhkh\\documents\\stockapi\\stockmarketapi\\models\\stockmarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|solutionrelative:models\\stockmarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|c:\\users\\anhkh\\documents\\stockapi\\stockmarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|c:\\users\\anhkh\\documents\\stockapi\\stockmarketapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|c:\\users\\anhkh\\documents\\stockapi\\stockmarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06FCE311-3AC6-40F1-8C99-069AF801D61E}|StockMarketAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:54:02.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Controllers\\StocksController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:52:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:16:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockMarketContext.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Models\\StockMarketContext.cs",
+              "RelativeDocumentMoniker": "Models\\StockMarketContext.cs",
+              "ToolTip": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\Models\\StockMarketContext.cs",
+              "RelativeToolTip": "Models\\StockMarketContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:12:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\anhkh\\Documents\\StockAPI\\StockMarketAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T15:06:56.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
